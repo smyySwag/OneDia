@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "889533190780",
+    "project_id": "onedia-1653870098544",
+    "storage_bucket": "onedia-1653870098544.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889533190780:android:b2772a23d4698dbc5feff9",
+        "android_client_info": {
+          "package_name": "b1392982.uk.ac.tees.onedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889533190780-mltnbupcp42v9brti1pkpk8nsh217pts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGym5R3eelQDnq255-MPwGIJUfYSxjBeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889533190780-mltnbupcp42v9brti1pkpk8nsh217pts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
